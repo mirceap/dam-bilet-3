@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bilet3Again</string>
+    <string name="adauga_autovehicul">Adauga autovehicul</string>
+    <string name="lista_autovehicule">Lista autovehicule</string>
+    <string name="preluare_masini_din_json_xml">Preluare masini din JSON/XML</string>
+    <string name="raport">Raport</string>
+    <string name="despre">Despre</string>
+    <string name="creator">Student Pavel Mircea</string>
+    <string name="add_auto_intent_name">AUTO</string>
+    <string name="edit_auto">EDIT_AUTO</string>
+    <string name="send_to_list">LISTA</string>
+    <string name="save_to_db">Save To Db</string>
+    <string name="lista_raport">LISTA</string>
+    <string name="list_to_main">LISTA_BACK</string>
+</resources>
